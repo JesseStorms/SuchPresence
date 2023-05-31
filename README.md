@@ -6,9 +6,9 @@ This is a simple Discord Rich Presence plugin for [SuchArt- Genius Artist Simula
 ## Installation
 
 0. Have discord and the game (duh)
-1. Download [BepInEx_x64](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21) and unzip into the root of the game directory.
+1. Download [BepInEx_x64 v5.4.21](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21) and unzip into the root of the game directory.
 2. Run the game once to generate the files needed.
-3. Download the latest release of the mod
+3. Download the latest release of the mod [here](https://github.com/JesseStorms/SuchPresence/releases)
 4. Unzip the release into the game directory. 
 
 Discord should automatically detect the game and show what's going on.
